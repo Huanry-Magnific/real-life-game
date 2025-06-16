@@ -295,9 +295,9 @@ npm run test
 
 ## 聯繫方式
 
-- 項目維護者：[Your Name]
-- 電子郵件：[your.email@example.com]
-- 項目鏈接：[https://github.com/yourusername/real-life-game](https://github.com/yourusername/real-life-game)
+- 項目維護者：[Huanry]
+- 電子郵件：[huanry@021up.org]
+- 項目鏈接：[https://github.com/021up/real-life-game](https://github.com/021up/real-life-game)
 
 ---
 
